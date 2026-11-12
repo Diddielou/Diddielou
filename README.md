@@ -1,6 +1,6 @@
 ## Hi, I’m Dinah 🙋🏻‍♀️
 
-- Android Developer💻 at [Apps with Love](https://appswithlove.com/) ❤️ in Bern, Switzerland 🐻
+- Android Developer💻 at [Apps with love](https://appswithlove.com/) ❤️ in Bern, Switzerland 🐻
 - Making Android apps using KMP (Kotlin Multiplatform) with Jetpack Compose or CMP (Compose Multiplatform).🙌
 - BSc in Computer Science specializing in Design & Management💃🏼
 - Love...
